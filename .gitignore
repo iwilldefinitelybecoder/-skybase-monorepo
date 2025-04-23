@@ -1,0 +1,10 @@
+node_modules
+dist
+pnpm-lock.yaml
+.env
+.turbo
+coverage
+apps/demo/.next
+apps/demo/node_modules
+apps/
+*.log

@@ -1,0 +1,10 @@
+# Exclude unnecessary files
+/src
+/tests
+/.vscode
+.git
+*.md
+*.config.js
+.turbo
+# Keep dist folder and others
+!dist/
