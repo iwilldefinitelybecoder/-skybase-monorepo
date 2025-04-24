@@ -4,15 +4,15 @@
   "version": "1.0.0",
   "author": {
     "name": "Abhichandra",
-    "email": "your-email@example.com",
-    "url": "https://github.com/abhichandra"
+    "email": "abhichandrav108@gmail.com",
+    "url": "https://github.com/iwilldefinitelybecoder"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/skybase.git"
+    "url": "https://github.com/iwilldefinitelybecoder/-skybase-monorepo.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/skybase/issues"
+    "url": "https://github.com/iwilldefinitelybecoder/-skybase-monorepo/issues"
   },
   "license": "MIT",
   "scripts": {
@@ -37,7 +37,8 @@
     "ts-jest": "^29.3.2",
     "tsup": "^8.4.0",
     "turbo": "^1.10.12",
-    "typescript": "^5.4.2"
+    "typescript": "^5.4.2",
+    "@jest/globals": "^29.7.0"
   },
   "dependencies": {}
 }
